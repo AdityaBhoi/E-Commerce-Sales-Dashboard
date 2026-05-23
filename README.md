@@ -152,9 +152,10 @@ Used custom DAX calculations for:
 ```bash
 ecommerce-sales-dashboard/
 │
+├── Dataset/
+│   ├── Orders.csv
+│   ├── Details.csv
 ├── Dashboard.pbit
-├── Orders.csv
-├── Details.csv
 ├── E-Commerce Sales Dashboard.png
 └── README.md
 ```
