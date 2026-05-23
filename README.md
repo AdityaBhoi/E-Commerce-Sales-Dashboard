@@ -157,7 +157,7 @@ E-Commerce-Sales-Dashboard/
 │   └── Details.csv
 │
 ├── Ecommerce-Sales-Dashboard.pbit
-├── Dashboard-preview.png
+├── dashboard-preview.png
 └── README.md
 ```
 
