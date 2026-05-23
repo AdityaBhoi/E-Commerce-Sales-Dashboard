@@ -34,7 +34,7 @@ The dashboard helps businesses make data-driven decisions by providing clear ins
 
 <div align="center">
 
-![Dashboard Preview](E-Commerce%20Sales%20Dashboard.png)
+![Dashboard Preview](Dashboard-preview.png)
 
 </div>
 
@@ -150,13 +150,14 @@ Used custom DAX calculations for:
 # 📁 Project Structure
 
 ```bash
-ecommerce-sales-dashboard/
+E-Commerce-Sales-Dashboard/
 │
 ├── Dataset/
 │   ├── Orders.csv
-│   ├── Details.csv
-├── Dashboard.pbit
-├── E-Commerce Sales Dashboard.png
+│   └── Details.csv
+│
+├── Ecommerce-Sales-Dashboard.pbit
+├── Dashboard-preview.png
 └── README.md
 ```
 
@@ -188,7 +189,7 @@ This dashboard can help businesses:
 ## 👤 Author
 
 **Aditya Bhoi**
-- 📧 [Gmail](2303031240176@paruluniversity.ac.in)
+- 📧 [Email](2303031240176@paruluniversity.ac.in)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/adityabhoi/)
 - 🐙 [GitHub](https://github.com/AdityaBhoi/)
 
