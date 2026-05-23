@@ -184,13 +184,12 @@ This dashboard can help businesses:
 
 ---
 
-# 👨‍💻 Author
+## 👤 Author
 
-## Aditya Bhoi
-
-- 📧 Email: 2303031240176@paruluniversity.ac.in
-- 🔗 LinkedIn: https://www.linkedin.com/in/adityabhoi/
-- 🐙 GitHub: https://github.com/AdityaBhoi
+**Aditya Bhoi**
+- 📧 [Gmail](2303031240176@paruluniversity.ac.in)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adityabhoi/)
+- 🐙 [GitHub](https://github.com/AdityaBhoi/)
 
 ---
 
